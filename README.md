@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bpvankar496-ux/https-github.com-bpvankar496-ux-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/bpvankar496-ux/https-github.com-bpvankar496-ux-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bpvankar496-ux/https-github.com-bpvankar496-ux-LeetCode/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/bpvankar496-ux/https-github.com-bpvankar496-ux-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
